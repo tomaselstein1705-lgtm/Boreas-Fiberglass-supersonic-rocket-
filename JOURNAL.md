@@ -36,12 +36,17 @@ My avbay is an inside tube that holds both of my flight computers, it has 2, 0.9
 
 # **5- Nosecone - Recovery**
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDg5NywicHVyIjoiYmxvYl9pZCJ9fQ==--a0992eb290de6da3d42c817217f80e3e65c56ac5/image.png)
+
 This is my nosecone; it's made out of fiberglass. For making this nosecone, I'm going to use this mold:
+
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDg5OSwicHVyIjoiYmxvYl9pZCJ9fQ==--f9ccb351a75b0ee12192c0c1de850472f682478d/image.png)
 It has the size of the inside of the nosecone. I'm going to lay up fiberglass sleeves to make the outside of the nosecone, like the picture above, then I'm gonna hammer it out:
+
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDkwMCwicHVyIjoiYmxvYl9pZCJ9fQ==--45d44648f20b8fa582da830b92d5cf0a1f7e68ea/image.png)
+
 As I can't make the tip from fiberglass because of the size, I'm going to make it out of aluminum with JLC. This gets secured with an eye bolt, which also provides an M4 attachment point for the shock cord.
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDkwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--a985dbc6586fdb3c51a2120db071ffabc4ebf7bd/image.png)
+
 For recovery, I'm going to use 2 "parachutes", a drogue (9" thin mill parachute) in the booster section (This one gets deployed at apogee), and as a main parachute, a top-flight 24" thin mill parachute, this one is located on the nosecone, it gets deployed 100m agl, for the shock cord im using kelvar, as this has some steel like strength, for my case, the best option is the 1500lb one (kinda over-kill, but i want more than less).
 
 # BOM
