@@ -5,6 +5,7 @@
 - OpenRocket design (sub-sonic)
 ![image.png](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzg0NywicHVyIjoiYmxvYl9pZCJ9fQ==--11b6beb52b095fd0225826e9a5868f4705fe5c8c/image.png)
 - RASAero design (supersonic)
+
 Firstly, in OpenRocket, I designed the structure of the airframe, where I assigned the materials, motor, airframe size, and fin size. I added a boat tail to reduce drag, dual development (The nosecone has the main parachute, which gets opened 150 m above ground level by a flight computer, and the booster section has the drogue; the drogue gets deployed during apogee), and I included "through-the-wall" fins to distribute the thrust of the motor around the whole airframe.
 Then, in RASAero, I checked the stability at supersonic speeds and some other drag stuff.
 
