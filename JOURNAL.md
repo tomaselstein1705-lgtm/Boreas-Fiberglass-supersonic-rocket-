@@ -86,3 +86,8 @@ For recovery, I'm going to use 2 "parachutes", a drogue (9" thin mill parachute)
 
   
 
+## 11/5/2025 - Fixed BOM  
+
+![Screenshot_20251105_164338_Chrome](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODcyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--3c138026344520244ca6f93b2bf51930be2e31c1/Screenshot_20251105_164338_Chrome.jpg)
+I used the worng format in the BOM so it looked messed up, I corrected it and make it look prettier and more appeling to people interested in the cost of the project.  
+
