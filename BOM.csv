@@ -1,23 +1,20 @@
-Name,Description,Quantity,Final Price,Link,
-Shock Cord - 1500 lb,Good quality Kevlar cords for high power rockets,4 m,$6.50,https://www.mach1rocketry.com/product-page/kevlar-shock-cords,
-Centering Rings,Made of G10 fiberglass; precise and durable,2,$8.00,https://www.mach1rocketry.com/product-page/g10-fiberglass-centering-rings,
-29mm MMT,Fiberglass motor mount tube,9 in,$11.25,https://www.mach1rocketry.com/product-page/fiberglass-motor-mount-tubes,
-3M 2 Filter Respirator,Essential for handling fiberglass dust — protects lungs effectively,1,$45.00,https://www.amazon.com/3M-7513PA1-Professional-Organic-Respirator/dp/B0009JNF1I,
-I205 14A 29mm Motor,High-performance motor — the heart of the rocket,1,$64.00,https://aerotech-rocketry.com/products/product_6195f3f3-6684-3bea-d54d-0b09b58c0427,
-Light Fiberglass Sleeve,Used for fabricating the nosecone; remnants are cost-effective,15 ft,$7.95,https://sollercompositesllc.com/product/remnants/,
-40mm Airframe,Premade fiberglass tube for rocket airframe — lightweight and affordable,3 ft,$39.00,https://www.mach1rocketry.com/product-page/fiberglass-airframe-tubes,
-38mm AvBay Tube,Houses avionics section of the rocket,5 in,$8.75,https://www.mach1rocketry.com/product-page/fiberglass-coupler-tubes,
-0.9g Charge Wells,Holds ejection charges; light and includes screw base,2,$8.00,https://www.mach1rocketry.com/product-page/charge-wells,
-Eggtimer Quark (Backup),Backup commercial flight computer for redundancy and safety,1,$25.00,https://eggtimerrocketry.com/purchase/,
-HighTel (Main Flight Computer),Custom flight computer — see GitHub repository,1,N/A,https://github.com/tomaselstein1705-lgtm/HighTel,
-Terminal Blocks,Connect pyro igniters; computer outputs current to these,1,$2.50,https://www.mach1rocketry.com/product-page/terminal-blocks,
-M4 Eye Nuts,Includes bolts and washers; strong and affordable,3,$6.00,https://www.mach1rocketry.com/product-page/eye-nuts,
-Thin Mill Drogue Chute (9”),Drogue chute slows rocket to terminal velocity before main deploy,1,$6.00,https://www.mach1rocketry.com/product-page/top-flight-thin-mill-parachutes,
-Thin Mill Parachute (24”),Main parachute; reduces landing speed to ~6 m/s,1,$19.00,https://www.mach1rocketry.com/product-page/top-flight-thin-mill-parachutes,
-Table Top Epoxy (2 Quart),Used for tip-to-tip reinforcement and nosecone layup,1,$34.00,https://www.totalboat.com/products/table-top-epoxy-crystal-clear-resin,
-Aeropoxy ES6209,Strong structural epoxy for fiberglass bonding,1,$40.00,https://giantleaprocketry.com/products/aeropoxy-structural-adhesive-kit-2-gallon,
-6oz Fiberglass Cloth,Standard fiberglass weave; ideal for composite layups,1,$18.00,https://www.amazon.com/Fiberglass-Glass-Inches-Fabric-Surfboard/dp/B0B3SXHSDP,
-    ,    ,   ,Total:,330.95$,
-
-
-
+Name,Description,Quantity,Final Price,Link
+Shock Cord - 1500 lb,Good quality Kevlar cords for high power rockets,4 m,$6.50,https://www.mach1rocketry.com/product-page/kevlar-shock-cords
+Centering Rings,Made of G10 fiberglass; precise and durable,2,$8.00,https://www.mach1rocketry.com/product-page/g10-fiberglass-centering-rings
+29mm MMT,Fiberglass motor mount tube,9 in,$11.25,https://www.mach1rocketry.com/product-page/fiberglass-motor-mount-tubes
+3M 2 Filter Respirator,Essential for handling fiberglass dust and protects lungs effectively,100,$45.00,https://www.amazon.com/3M-7513PA1-Professional-Organic-Respirator/dp/B0009JNF1I
+I205 14A 29mm Motor,High-performance motor – the heart of the rocket,1,$64.00,https://aerotech-rocketry.com/products/product_6195f3f3-6684-3bea-d54d-0b09b58c0427
+Carbon Fiber 3K Twill Weave,Used for fabricating the nosecone; cost-effective replacement for fiberglass,15 ft,$99.95,https://sollercompositesllc.com/product/3k-carbon-twill-weave-sold-by-the-running-yard-roll/
+40mm Airframe,Premade fiberglass tube for rocket airframe – lightweight and affordable,3 ft,$39.00,https://www.mach1rocketry.com/product-page/fiberglass-airframe-tubes
+38mm AvBay Tube,Houses avionics section of the rocket,5 in,$8.75,https://www.mach1rocketry.com/product-page/fiberglass-coupler-tubes
+0.9g Charge Wells,Holds ejection charges; light and includes screw base,2,$8.00,https://www.mach1rocketry.com/product-page/charge-wells
+Eggtimer Quark (Backup),Backup commercial flight computer for redundancy and safety,1,$25.00,https://eggtimerrocketry.com/purchase/
+HighTel (Main Flight Computer),Custom flight computer – see GitHub repository,1,N/A,https://github.com/tomaselstein1705-lgtm/HighTel
+Terminal Blocks,Connect pyro igniters; computer outputs current to these,1,$2.50,https://www.machrocketry.com/product-page/terminal-blocks
+M4 Eye Nuts,Includes bolts and washers; strong and affordable,3,$6.00,https://www.mach1rocketry.com/product-page/eye-nuts
+Thin Mill Drogue Chute (9"),Drogue chute slows rocket to terminal velocity before main deploy,1,$6.00,https://www.mach1rocketry.com/product-page/top-flight-thin-mill-parachutes
+Thin Mill Parachute (24"),Main parachute; reduces landing speed to ~6 m/s,1,$19.00,https://www.mach1rocketry.com/product-page/top-flight-thin-mill-parachutes
+Table Top Epoxy (2 Quart),Used for tip-to-tip reinforcement and nosecone layup,1,$34.00,https://www.totalboat.com/products/table-top-epoxy-crystal-clear-resin
+Aeropoxy ES6209,Strong structural epoxy for fiberglass bonding,1,$40.00,https://giantleaprocketry.com/products/aeropoxy-structural-adhesive-kit-2-gallon
+6oz Fiberglass Cloth,Standard fiberglass weave; ideal for composite layups,1,$18.00,https://www.amazon.com/Fiberglass-Glass-Inches-Fabric-Surfboard/dp/B0B3SXHSDP
+, ,Total,,$381.45
