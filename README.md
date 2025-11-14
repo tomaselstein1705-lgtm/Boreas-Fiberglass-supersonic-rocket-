@@ -9,6 +9,7 @@ Full body (low visibility)
 Full body (Invisible body)
 
 # BOM
+(Without a motor, you can use an "I-205" or smaller, make simulations before flying)
 
 | Name                                     | Description                                                                                                                                                                            | Quantity | Final Price | Link |
 |------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|-------------|------|
